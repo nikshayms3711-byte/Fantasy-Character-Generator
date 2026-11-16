@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy Character Creator",
+  "description": "Interactive fantasy character playing card prototype for generating unique hero names and classes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
